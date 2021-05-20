@@ -1,0 +1,4 @@
+﻿  Server_TCP_IP_mull.cpp
+C:\Users\Ефим\source\repos\Server_TCP_IP_mull\Server_TCP_IP_mull\Server_TCP_IP_mull.cpp(11,7): warning C4101: res: неиспользованная локальная переменная
+C:\Users\Ефим\source\repos\Server_TCP_IP_mull\Server_TCP_IP_mull\Server_TCP_IP_mull.cpp(21,7): warning C4101: result: неиспользованная локальная переменная
+  Server_TCP_IP_mull.vcxproj -> C:\Users\Ефим\source\repos\Server_TCP_IP_mull\Debug\Server_TCP_IP_mull.exe

@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\Ефим\source\repos\Platformer\Platformer\source\Game.hpp(4,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
