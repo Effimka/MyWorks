@@ -1,0 +1,4 @@
+﻿  Laba5.cpp
+D:\Kioki\Laba5\Laba5\Laba5.cpp(261,42): warning C4244: return: преобразование "uint64_t" в "long", возможна потеря данных
+D:\Kioki\Laba5\Laba5\Laba5.cpp(268,19): warning C4244: инициализация: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+  Laba5.vcxproj -> D:\Kioki\Laba5\Debug\Laba5.exe
