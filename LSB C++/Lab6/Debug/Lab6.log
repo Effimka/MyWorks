@@ -1,0 +1,4 @@
+﻿  Lab6.cpp
+D:\Kioki\Lab6\Lab6\Lab6.cpp(249,56): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Kioki\Lab6\Lab6\Lab6.cpp(260,25): warning C4018: >: несоответствие типов со знаком и без знака
+  Lab6.vcxproj -> D:\Kioki\Lab6\Debug\Lab6.exe
