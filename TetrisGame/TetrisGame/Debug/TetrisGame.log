@@ -1,0 +1,5 @@
+﻿  Tetris.cpp
+F:\VS_Project\TetrisGame\TetrisGame\GameField.h(17,44): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+F:\VS_Project\TetrisGame\TetrisGame\Tetris.cpp(49,77): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+F:\VS_Project\TetrisGame\TetrisGame\Tetris.cpp(166,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TetrisGame.vcxproj -> F:\VS_Project\TetrisGame\Debug\TetrisGame.exe
